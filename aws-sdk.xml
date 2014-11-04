@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.1" method="upgrade">
+    <name>Amazon Web Services SDK</name>
+    <libraryname>amazon</libraryname>
+    <version>2.7.2</version>
+    <description>Amazon Web Services SDK</description>
+    <creationDate>November 2014</creationDate>
+    <author>Olivier Beaudet</author>
+    <authorEmail></authorEmail>
+    <authorUrl></authorUrl>
+    <files folder="libraries">
+        <folder>.</folder>
+    </files>
+</extension>
